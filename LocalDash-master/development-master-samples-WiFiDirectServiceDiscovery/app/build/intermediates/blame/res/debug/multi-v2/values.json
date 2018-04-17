@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\SJSU\\2017-2018\\Spring\\295B\\LocalDash-master\\development-master-samples-WiFiDirectServiceDiscovery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\SJSU\\2017-2018\\Spring\\295B\\LocalDash-master\\development-master-samples-WiFiDirectServiceDiscovery\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "6,4,3,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "215,123,56,165",
+                        "endColumns": "52,41,66,49",
+                        "endOffsets": "263,160,118,210"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,108,150,217",
+                        "endColumns": "52,41,66,49",
+                        "endOffsets": "103,145,212,262"
+                    }
+                },
+                {
+                    "source": "E:\\SJSU\\2017-2018\\Spring\\295B\\LocalDash-master\\development-master-samples-WiFiDirectServiceDiscovery\\app\\src\\main\\res\\values\\style.xml",
+                    "from": {
+                        "startLines": "3,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,210",
+                        "endLines": "6,11",
+                        "endColumns": "12,12",
+                        "endOffsets": "204,355"
+                    },
+                    "to": {
+                        "startLines": "6,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "267,420",
+                        "endLines": "9,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "415,565"
+                    }
+                }
+            ]
+        }
+    ]
+}
