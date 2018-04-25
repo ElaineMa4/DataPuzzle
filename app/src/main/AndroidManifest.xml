@@ -24,12 +24,15 @@
             android:name="com.google.android.gm.version"
             android:value="@integer/google_play_services_version" />
 
-        <activity android:name=".MainActivity">
+        <activity android:name=".EntryActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+
+        <activity android:name=".MainActivity">
+
         </activity>
         <activity android:name=".ExternalStorage" />
         <activity android:name=".QueryFileActivity" />
@@ -40,7 +43,8 @@
             android:theme="@android:style/Theme.Holo.Light.DarkActionBar" />
         <activity android:name=".IndividualFileDownloadActivity" />
         <activity android:name=".GoogleDriveFileDownloadActivity" />
-        <activity android:name=".CooperateFileDownloadActivity"></activity>
+        <activity android:name=".CooperateFileDownloadActivity" />
+
     </application>
 
 </manifest>
